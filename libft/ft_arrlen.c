@@ -6,11 +6,11 @@
 /*   By: cde-voog <cde-voog@student.42lehavre.fr>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/24 12:34:06 by cde-voog          #+#    #+#             */
-/*   Updated: 2023/08/24 12:34:37 by cde-voog         ###   ########.fr       */
+/*   Updated: 2023/09/04 23:59:59 by cde-voog         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "lby.h"
 
 // returns the number of elements in a string array, she's not to standard libft
 
