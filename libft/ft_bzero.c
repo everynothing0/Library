@@ -6,11 +6,11 @@
 /*   By: cde-voog <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/14 23:00:38 by cde-voog          #+#    #+#             */
-/*   Updated: 2023/04/17 00:30:39 by cde-voog         ###   ########.fr       */
+/*   Updated: 2023/09/05 00:01:14 by cde-voog         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "lby.h"
 
 void	ft_bzero(void *s, size_t n)
 {
