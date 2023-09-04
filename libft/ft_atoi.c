@@ -6,11 +6,11 @@
 /*   By: cde-voog <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/18 01:52:06 by cde-voog          #+#    #+#             */
-/*   Updated: 2023/04/18 03:04:24 by cde-voog         ###   ########.fr       */
+/*   Updated: 2023/09/05 00:00:32 by cde-voog         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "lby.h"
 
 int	ft_atoi(const char *str)
 {
