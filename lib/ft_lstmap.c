@@ -6,11 +6,11 @@
 /*   By: cde-voog <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/26 02:54:50 by cde-voog          #+#    #+#             */
-/*   Updated: 2023/04/26 20:21:50 by cde-voog         ###   ########.fr       */
+/*   Updated: 2023/09/21 11:31:20 by cde-voog         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "lby.h"
 
 t_list	*ft_lstmap(t_list *lst, void *(*f)(void *), void (*del)(void *))
 {
