@@ -6,11 +6,11 @@
 /*   By: cde-voog <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/17 18:55:33 by cde-voog          #+#    #+#             */
-/*   Updated: 2023/04/20 21:40:40 by cde-voog         ###   ########.fr       */
+/*   Updated: 2023/09/21 11:33:36 by cde-voog         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "lby.h"
 
 void	*ft_memchr(const void *s, int c, size_t n)
 {
