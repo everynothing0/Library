@@ -6,11 +6,11 @@
 /*   By: cde-voog <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/25 04:44:11 by cde-voog          #+#    #+#             */
-/*   Updated: 2023/04/25 04:51:11 by cde-voog         ###   ########.fr       */
+/*   Updated: 2023/09/21 11:27:25 by cde-voog         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "lby.h"
 
 void	ft_lstadd_front(t_list **lst, t_list *new)
 {
