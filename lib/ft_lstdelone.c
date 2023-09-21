@@ -6,11 +6,11 @@
 /*   By: cde-voog <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/25 05:23:43 by cde-voog          #+#    #+#             */
-/*   Updated: 2023/04/25 05:36:02 by cde-voog         ###   ########.fr       */
+/*   Updated: 2023/09/21 11:29:16 by cde-voog         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "lby.h"
 
 void	ft_lstdelone(t_list *lst, void (*del)(void *))
 {
