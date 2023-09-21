@@ -6,11 +6,11 @@
 /*   By: cde-voog <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/25 05:38:45 by cde-voog          #+#    #+#             */
-/*   Updated: 2023/04/25 05:51:35 by cde-voog         ###   ########.fr       */
+/*   Updated: 2023/09/21 11:28:42 by cde-voog         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "lby.h"
 
 void	ft_lstclear(t_list **lst, void (*del)(void *))
 {
