@@ -16,4 +16,8 @@ int	ft_sqrt(int nb)
 		return (0);
 	while (square_root != previous)
 	{
-
+		previous = square_root;
+		square_root = (nb / square_root);
+	}
+	return (square_root);
+}
